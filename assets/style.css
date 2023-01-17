@@ -261,7 +261,13 @@ margin-top: 15px;
     margin-right: auto;
   }
 }
-
+@media (min-width: 800px) and (max-width: 1200px) {
+  .about p {
+    font-size: 2.5rem;
+    width: 90%;
+    justify-content: center;
+}
+}
 
 /* Projects section*/
 main {
