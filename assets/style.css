@@ -472,7 +472,7 @@ main h2 {
   }
   
 label, input, textarea {
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   }
 
 label {
@@ -508,7 +508,7 @@ button {
   background-image: -webkit-linear-gradient(120deg, #F77d8b 10%, #6648fc 100%);
   filter: drop-shadow(2px 2px 3px #0003);
   color: #fff;
-  font-family: 'DM Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: clamp(16px, 1.6vw, 18px);
   display: block;
   padding: 12px 20px;
