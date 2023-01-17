@@ -3,7 +3,7 @@ January 17th, 2023
 
 # Deployment Link
 
-https://melissataylor1.github.io/Portfolio
+https://melissataylor1.github.io/MelTaylor_WebDev_Portfolio/
 
 # Description
 ### Why was this project significant?
